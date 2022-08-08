@@ -6,3 +6,7 @@ Banana
 Pear
 Melon
 Cereal
+Carrots 
+Cucumber
+Eggs 
+Tomotoes
